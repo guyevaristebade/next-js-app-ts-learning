@@ -1,0 +1,10 @@
+README.md
+file.txt
+next.config.mjs
+package.json
+pnpm-lock.yaml
+postcss.config.mjs
+public
+src
+tailwind.config.ts
+tsconfig.json
